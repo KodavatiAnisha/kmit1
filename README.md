@@ -1,3 +1,7 @@
 # kmit1
 
-click to visit website:https://kodavatianisha.github.io/kmit1/
+<html>
+  <body>
+    <h3> kmit collese </h3>
+  </body>
+</html>
